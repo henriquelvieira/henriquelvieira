@@ -1,7 +1,5 @@
-## Hi there
+### Hi, I'm Henrique <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">
 
-
-My name is Henrique Lopes Vieira 🧔🏾🇧🇷
 
 ## And I develop in the following technologies ⬇️
 
@@ -16,9 +14,10 @@ My name is Henrique Lopes Vieira 🧔🏾🇧🇷
 
 
 
-Reach me out 👇🏼
+#### 💬 Find me
 
  [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/henriquelvieira/)](https://www.linkedin.com/in/henriquelvieira/)
+ [![Gmail Badge](https://img.shields.io/badge/-henrique.l.vieira92@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:henrique.l.vieira92@gmail.com)](mailto:henrique.l.vieira92@gmail.com)
  
  ## ⚙️ &nbsp;GitHub Analytics
 
