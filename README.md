@@ -1,4 +1,4 @@
-### Hi, I'm Henrique <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5px" height="5px">
+### Hi, I'm Henrique <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="10px" height="10px">
 
 
 ## And I develop in the following technologies ⬇️
